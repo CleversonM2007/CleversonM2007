@@ -1,4 +1,4 @@
-## Bem vindo ao meu perfil, Eu sou Cleverson. Aluno e Programador
+## Bem vindo ao meu perfil, Meu nome é Cleverson Marcelo.
 
 <div>
   <a href="https://github.com/anuraghazra/convoychat">
