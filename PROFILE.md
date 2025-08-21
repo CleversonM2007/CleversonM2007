@@ -1,9 +1,8 @@
-## Bem vindo ao meu perfil, meu nome é Cleverson Marcelo.
-## Welcome to my profile, my name is Cleverson Marcelo.
+## Bem vindo ao meu perfil, meu nome é Cleverson Marcelo. <br> Welcome to my profile, my name is Cleverson Marcelo.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <br>
   <img align="center" alt="Cleverson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Cleverson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Cleverson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
