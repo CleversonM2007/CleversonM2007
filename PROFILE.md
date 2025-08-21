@@ -2,4 +2,4 @@
 
 <br>
 
-<a href="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
+<a href="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
