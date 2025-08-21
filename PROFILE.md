@@ -1,17 +1,6 @@
 ## Bem vindo ao meu perfil, meu nome é Cleverson Marcelo.
 ## Welcome to my profile, my name is Cleverson Marcelo.
 
-<div>
-  
-  <a href="[https://github.com/anuraghazra/convoychat](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CleversonM2007&layout=compact&langs_count=8&card_width=320&theme=dark" />
-  </a>
-</div>
-
-##
-
-<div style="display: inline_block"><br>
-
   # Skills
 
   <br>
