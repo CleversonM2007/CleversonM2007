@@ -1,4 +1,9 @@
-## Bem vindo ao meu perfil, meu nome é Cleverson Marcelo. <br> Welcome to my profile, my name is Cleverson Marcelo.
+## Welcome to my profile, my name is Cleverson Marcelo.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CleversonM2007&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CleversonM2007&layout=compact&icons=true&theme=dark )
+
+## Skills
 
 <div style="display: inline_block">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -10,7 +15,7 @@
   <img align="center" alt="Cleverson-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
-  ##
+  ## Contacts
  
 <div> 
   <a href="https://instagram.com/marceloacelino_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
