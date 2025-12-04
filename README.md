@@ -1,8 +1,6 @@
 ## Welcome to my profile, my name is Cleverson Marcelo.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CleversonM2007&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CleversonM2007&layout=compact&icons=true&theme=dark&)
-<br>
+
 ![](https://komarev.com/ghpvc/?username=CleversonM2007&color=000000)
 
 ## Skills
